@@ -1,12 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const About = () => {
-    return (
-        <h1>
-            Это приложение создано в качестве обуч. ролика на ULBI TV
-            
-        </h1>
-    );
+  return <h1>This App was created 12.10.2021</h1>;
 };
 
 export default About;

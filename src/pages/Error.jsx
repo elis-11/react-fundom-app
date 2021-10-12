@@ -4,7 +4,7 @@ const Error = () => {
     return (
         <div>
             <h1 style={{color: 'red'}}>
-                Вы перешли на несуществующую страницу!
+            You have come to a page that does not exist!
             </h1>
         </div>
     );
